@@ -16,7 +16,7 @@ pip install pynput
 - Abra o arquivo __"keylogger.py"__ em um editor de texto e defina o local onde os logs serão salvos na variável __"log_dir"__.
 
 - Execute o programa:
-_python keylogger.py_
+python keylogger.py
 
 - Para interromper o programa, pressione __"CTRL+C"__.
 
